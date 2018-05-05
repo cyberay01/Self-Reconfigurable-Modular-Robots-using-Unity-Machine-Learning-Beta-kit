@@ -1,0 +1,18 @@
+5/4/2018 7:11:47 PM
+ 
+Log
+The Agent component attached to the GameObject SphericalCatom(Clone) was initialized without a brain.
+UnityEngine.Debug:Log(Object)
+Agent:OnEnableHelper(Academy) (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/ML-Agents/Scripts/Agent.cs:285)
+Agent:OnEnable() (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/ML-Agents/Scripts/Agent.cs:257)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+CatomGenerator:Awake() (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/Scripts/Catom Sim 3D/CatomGenerator.cs:26)
+
+Log
+The Agent component attached to the GameObject SphericalCatom(Clone) was initialized without a brain.
+UnityEngine.Debug:Log(Object)
+Agent:OnEnableHelper(Academy) (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/ML-Agents/Scripts/Agent.cs:285)
+Agent:OnEnable() (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/ML-Agents/Scripts/Agent.cs:257)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+CatomGenerator:Awake() (at C:/Users/raysa/Documents/Claytronics_Simulation/Assets/Scripts/Catom Sim 3D/CatomGenerator.cs:26)
+
