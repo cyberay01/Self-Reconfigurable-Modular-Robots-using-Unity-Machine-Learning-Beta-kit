@@ -13,7 +13,10 @@ I had to try it out.
 
 ## Physical Simulation
 I simulated electromagnetic forces with actual physical equations and Unity's force vectors.
-I also modeled the individual modular units.
+
+I also modeled the individual modular units, and implemented Prefabs to make use of the simulated electromagnets.
+
+Making this simulation was overall a good learning experience for me to become comfortable using Unity.
 
 ## Testing
 I tested the Machine Learning Kit using different reward values for different functions of the modular robot, in order to find the most effective reward value for the modular units to form given shapes.
